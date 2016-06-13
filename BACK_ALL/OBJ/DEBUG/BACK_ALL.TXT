@@ -1,0 +1,6 @@
+C:\Users\pg05felipe\Desktop\Files\Programming1\Day1\Back_Alley_Dice\Back_Alley_Dice\bin\Debug\Back_Alley_Dice.exe.config
+C:\Users\pg05felipe\Desktop\Files\Programming1\Day1\Back_Alley_Dice\Back_Alley_Dice\bin\Debug\Back_Alley_Dice.exe
+C:\Users\pg05felipe\Desktop\Files\Programming1\Day1\Back_Alley_Dice\Back_Alley_Dice\bin\Debug\Back_Alley_Dice.pdb
+C:\Users\pg05felipe\Desktop\Files\Programming1\Day1\Back_Alley_Dice\Back_Alley_Dice\obj\Debug\Back_Alley_Dice.csprojResolveAssemblyReference.cache
+C:\Users\pg05felipe\Desktop\Files\Programming1\Day1\Back_Alley_Dice\Back_Alley_Dice\obj\Debug\Back_Alley_Dice.exe
+C:\Users\pg05felipe\Desktop\Files\Programming1\Day1\Back_Alley_Dice\Back_Alley_Dice\obj\Debug\Back_Alley_Dice.pdb
